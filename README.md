@@ -74,7 +74,6 @@ txt_to_xlsx_gui/
 ├── settings.py           # Запоминание последнего пути
 ├── static/
 |   ├──icon.ico           # Иконка приложения
-├── __init__.py
 ├── README.md
 └── requirements.txt
 ```
